@@ -4,6 +4,6 @@ public class mainApp {
 		//TODO Auto-generated method stub
 		// syso ctrl + espacio para autocompletar
 		System.out.println("Hola Mundo!!");
-		
+		System.out.println("Bootcamp Reus");
 	}
 }
